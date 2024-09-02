@@ -1,1 +1,28 @@
 /* Write your CSS here */
+.bg{
+    background-color:  #f1f5f8;
+    font-family: 'Roboto';
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.head {
+    color:  #2d3a35;
+}
+
+.count {
+    color: #c20a72;
+}
+
+.para {
+    color: #2d3a35;
+}
+
+.btn {
+    background-color:  #007bff;
+    color: #ffffff;
+    border-radius: 5px;
+}
